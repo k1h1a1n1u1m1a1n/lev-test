@@ -1,0 +1,29 @@
+.col-full {
+    max-width: 75%;
+}
+
+.plugin-wpr {
+    display: flex;
+}
+
+.products-wrp {
+    width: 70%;
+}
+
+.products-wrp .products {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.products-wrp .product {
+    margin-right: 0 !important;
+}
+
+.plugin-wpr .widget_shopping_cart {
+    padding-left: 30px;
+    width: 30%;
+}
+
+.plugin-wpr .bought-together .product {
+    width: 50% !important;
+}
